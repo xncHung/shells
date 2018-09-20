@@ -1,0 +1,11 @@
+{
+  "useUsb": false,
+  "module_name":"app",
+  "variant":"BD",
+  "com.pingan.smt.businessuser.login.activity.NewLoginActivity":{
+    "key_params":{
+      "type":"s",
+      "value":"{\"loginFrom\":\"test_from\",\"loginMsg\":\"test_from_msg\"}"
+    }
+  }
+}
